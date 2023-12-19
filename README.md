@@ -1,4 +1,4 @@
-# Processamento-de-Imagem
+# Processamento de Imagem
 Código para processamento de imagens em python desenvolvido na disciplina de computação gráfica utilizando a linguagem de programação Python e a biblioteca Pillow (PIL).
 
 ## 🤔 Como Funciona o Código
