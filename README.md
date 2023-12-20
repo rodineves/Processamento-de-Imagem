@@ -4,7 +4,7 @@ Código para processamento de imagens em python desenvolvido na disciplina de co
 ## Tipo de Processamento disponíveis no Código
 
 1. Imagem Negativa --> Inverte as cores da imagem.
-{c:silver}2. Imagem Monocromática --> Converte a imagem para tons de cinza.{/c}
+2. Imagem Monocromática --> Converte a imagem para tons de cinza.
 3. Binarização --> Converte a imagem para preto e branco com base em um limiar.
 4. Limiarização --> Aplica limiarização à imagem com limiares definidos pelo usuário.
 5. Fatiamento --> Mantém uma faixa específica de intensidades de pixel, criando um efeito fatiado.
